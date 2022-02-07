@@ -12,6 +12,7 @@ const {
   menosQueNoventa,
   mayorQueCincuenta,
   sumar,
+
   resta,
   divide,
   multiplica,

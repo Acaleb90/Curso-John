@@ -126,7 +126,7 @@ function buscoInterseccion(arreglo1, arreglo2){
   return arreglo;
 }
 
-
+Terminar
 
 // No modificar nada debajo de esta línea
 // --------------------------------
